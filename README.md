@@ -9,9 +9,9 @@ Currently, my focus is on Java development, and I'm exploring different tools an
 Here's a quick overview of the tools and technologies I work with:  
 
 ### 🌟 Core Specialties  
-- **Programming Languages:** Java (Spring Boot, JPA, Thymeleaf), SQL  
+- **Programming Languages:** Java (Spring Boot, JDBC, Thymeleaf, JavaFX, FXML), SQL  
 - **Version Control:** Git, GitHub  
-- **Database Management:** MySQL, PostgreSQL, H2  
+- **Database Management:** MySQL, SQLite
 - **Testing:** JUnit, Postman (API testing)  
 - **Web Development:** HTML5, CSS3, JavaScript, Bootstrap  
 
@@ -52,8 +52,7 @@ A RESTful API to manage:
 
 ## 🤝 Let’s Connect!
 
-💼 **LinkedIn**: https://www.linkedin.com/in/vidasilva
-🌐 **Website**: https://vidasilva.com
+💼 **LinkedIn**: [Vitor D.G. Silva](https://www.linkedin.com/in/vidasilva)
 📧 **Email**: vidasilva@proton.me
 
 Thank you for visiting my GitHub profile! I'm always open to collaboration, feedback, and learning from others. Let's grow together! 🌟
