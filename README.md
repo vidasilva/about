@@ -54,7 +54,7 @@ A RESTful API to manage:
 
 💼 **LinkedIn**: [Vitor D.G. Silva](https://www.linkedin.com/in/vidasilva)
 📧 **Email**: vidasilva@proton.me
-  **LeetCode**: [vidasilva](https://leetcode.com/u/vidasilva)
+👨‍💻 **LeetCode**: [vidasilva](https://leetcode.com/u/vidasilva)
 
 Thank you for visiting my GitHub profile! I'm always open to collaboration, feedback, and learning from others. Let's grow together! 🌟
 
